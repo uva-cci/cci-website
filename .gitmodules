@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/uva-cci/cci-research.nl.git
+	branch = master

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wouter Kors
+title: Wouter Los
 
 # Username (this should match the folder name)
 authors:
@@ -15,8 +15,8 @@ role: Project Development
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-- name: White Box Systems
-  url: "https://whiteboxsystems.nl/team"
+  url: "https://www.uva.nl/en/profile/l/o/w.los/w.los.html"
+
 
 
 # Short bio (displayed in user profile at end of posts)

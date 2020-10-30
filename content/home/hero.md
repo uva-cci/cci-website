@@ -22,8 +22,8 @@ title = "Complex Cyber-Infrastructures"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#8f9521"
-  gradient_end = "#8f9521"
+  gradient_start = "#0d47a1"
+  gradient_end = "#0d47a1"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.

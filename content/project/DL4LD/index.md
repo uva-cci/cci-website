@@ -11,7 +11,11 @@ external_link: ""
 links:
 - icon: hyperlink
   icon_pack: fab
-  name: Project's Homepage
+  name: Research Homepage
+  url: https://dl4ld.nl
+- icon: hyperlink
+  icon_pack: fab
+  name: More Information
   url: https://dl4ld.net
 url_code: ""
 url_pdf: ""

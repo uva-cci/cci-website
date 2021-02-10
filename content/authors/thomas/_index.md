@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thomas van Binsbergen
+title: L. Thomas van Binsbergen
 
 # Username (this should match the folder name)
 authors:
@@ -15,8 +15,9 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-- name: CWI
-  url: "https://www.cwi.nl/people/thomas-van-binsbergen"
+  url: "https://www.uva.nl/en/profile/b/i/l.t.vanbinsbergen/l.t.van-binsbergen.html"
+- name: Personal Homepage
+  url: "https://ltvanbinsbergen.nl"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: The complexity of man made systems on all scales is my research field. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned,  operated and governed by different entities in multiple administrative connected domains on the Internet. Harnessing this complexity in a transparent trust-able way for safe and secure data processing is a major research topic that nowadays defines the focus in my research. I chair the Complex Cyber Infrastructure research group that hosts this research line.

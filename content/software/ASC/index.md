@@ -14,6 +14,10 @@ links:
   icon_pack: fab
   name: Repository
   url: https://github.com/mostafamohajeri/agentscript
+- icon: github
+  icon_pack: fab
+  name: Test Project
+  url: https://github.com/mostafamohajeri/agentscript-test
 url_code: ""
 url_pdf: ""
 url_slides: ""

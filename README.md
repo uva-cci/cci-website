@@ -4,6 +4,4 @@ This repo uses https://gohugo.io/ for building the website https://cci-research.
 
 ## How To Make
 
-After installing `hugo` you can go to the root directory of the project and run `hugo server` to see a preview of the built website on the local host.
-
-Running `hugo` will build the website and put the files into `/public` directory, which is a git submodule to the github pages repository, then go the `/public` dirctory and `add`, `commit` and `push` it to its own repo. changes will take a few minutes to take place online.
+This repo uses the github actions for CI/CD of this repo into the github pages repo. ![github pages](https://github.com/uva-cci/cci-website/workflows/github%20pages/badge.svg?branch=master)

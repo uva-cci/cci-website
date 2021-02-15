@@ -12,7 +12,11 @@ links:
 - icon: hyberlink
   icon_pack: fab
   name: More Information
-  url: https://ir.cwi.nl/pub/29922
+  url: https://ltvanbinsbergen.nl/files/papers/eflint.pdf
+- icon: github
+  icon_pack: fab
+  name: Source Code
+  url: https://gitlab.com/eflint/haskell-implementation
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -28,4 +32,4 @@ slides: example
 
 Software systems that share potentially sensitive data are subjected to laws, regulations, policies and/or contracts. The monitoring, control and enforcement processes applied to these systems are currently to a large extent manual, which we rather automate by embedding the processes as dedicated and adaptable software services in order to improve efficiency and effectiveness. This approach requires such regulatory services to be closely aligned with a formal description of the relevant norms.
 
-This paper presents eflint, a domain-specific language developed for formalizing norms. The theoretical foundations of the language are found in transition systems and in Hohfeld’s framework of legal fundamental conceptions. The language can be used to formalize norms from a large variety of sources. The resulting specifications are executable and support several forms of reasoning such as automatic case assessment, manual exploration and simulation. Moreover, the specifications can be used to develop regulatory services for several types of monitoring, control and enforcement. The language is evaluated through a case study formalizing articles 6(1)(a) and 16 of the General Data Protection Regulation (GDPR). A prototype implementation of eflint is discussed and is available online.
+<b>eFLINT</b> is a domain-specific language developed for formalizing norms from a variety of sources. The theoretical foundations of the language are found in transition systems and in Hohfeld’s framework of legal fundamental conceptions. The language can be used to formalize norms from a large variety of sources. The resulting specifications are executable and support several forms of reasoning such as automatic case assessment, manual exploration and simulation. Moreover, the specifications can be used to develop regulatory services for several types of monitoring, control and enforcement. The language is evaluated through a case study formalizing articles 6(1)(a) and 16 of the General Data Protection Regulation (GDPR). A prototype implementation of eflint is discussed and is available online <a href="http://grotius.uvalight.net/eflintonline/">here</a>.

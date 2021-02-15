@@ -41,6 +41,9 @@ featured: true
 projects:
 - DL4LD
 
+software:
+- AgentScript Cross-Compiler
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

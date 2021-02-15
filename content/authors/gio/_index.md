@@ -16,6 +16,8 @@ role: Postdoctoral Researcher
 organizations:
 - name: University of Amsterdam
   url: "https://www.uva.nl/en/profile/s/i/g.sileno/g.sileno.html"
+- name: Home Page
+  url: "https://gsileno.net/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: The complexity of man made systems on all scales is my research field. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned,  operated and governed by different entities in multiple administrative connected domains on the Internet. Harnessing this complexity in a transparent trust-able way for safe and secure data processing is a major research topic that nowadays defines the focus in my research. I chair the Complex Cyber Infrastructure research group that hosts this research line.

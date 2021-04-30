@@ -57,3 +57,6 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
+
+<H2>About Christopher</H2>
+My name is Christopher Esterhuyse, and I am joining the CCI group as a PhD student. I will be working on the AMDEX fieldlab project, which will involve topics such as software language engineering, and distributed systems. I am most looking forward to interacting with colleagues with various interests and specializations. My childhood was spent on the move within the USA, and my home country of South Africa. Since I moved to Amsterdam in 2014, I somehow managed to stay put, turning my place of study into my new home. In that time, I have cultivated some typical European hobbies, such as hiking in Germany, and drinking Belgian beer.

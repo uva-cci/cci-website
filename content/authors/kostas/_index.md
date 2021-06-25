@@ -12,6 +12,12 @@ superuser: false
 # Role/position
 role: Assistant Professor
 
+education:
+  courses:
+  - course: PhD in  Side-Channel Analysis
+    institution: Radboud University Nijmegen
+    year: 2017
+
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam

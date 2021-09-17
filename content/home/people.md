@@ -18,7 +18,7 @@ subtitle = ""
                  "Post-docs",
                  "PhD Students",
                  "Guests",
-                 "Support"]
+                 "Research, Technical and Administrative Support"]
 
 [design]
   # Show user's social networking links? (true/false)

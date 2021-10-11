@@ -20,8 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Smart Contracts
+interests:
+- Hardware engineering, Verilog coding
+- Operating systems
+- CPU architectures
+- Computer systems security (from binary exploitation to Spectre & Meltdown)
+- An occasional CTF
+
+education:
+  courses:
+  - course: MSc Computer Science (Computer Systems Security), 2021 - VU Amsterdam
+  - course: BSc Computing Science, 2018 - University of Amsterdam
 
 
 # Social/Academic Networking
@@ -34,6 +43,14 @@ organizations:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/therbom
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/marco-brohet 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -45,3 +62,8 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
+
+
+<h2>
+My name is Marco Brohet and I am excited to start as a PhD candidate in the Complex Cyber Infrastructure (CCI) group. Being supervised by Francesco Regazzoni, I will conduct research in the theme of Security By Design (SBD). My research will focus on making embedded systems more secure from the hardware inside, ensuring that software and hardware can securely cooperate with each other in a (possibly) hostile environment. I was born and raised in Amsterdam, so cycling is definitely my preferred method of transportation, but I certainly hope to do some experience abroad to broaden my horizon. I still like to play an occasional game of table tennis, so let me know if you know a good spot for this. Or if you want to play a chess game with the giant pieces at the ground floor. Cheers!
+</h2>

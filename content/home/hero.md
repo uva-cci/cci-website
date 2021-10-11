@@ -40,8 +40,7 @@ title = "Complex Cyber-Infrastructures"
 #   Remove a link/note by deleting a cta/note block.
 +++
 
-<p>The Complex Cyber Infrastructure (CCI) group is part of the Informatics Institute at the University of Amsterdam. 
-CCI focuses on the complexity of man-made systems on all scales. This scale can be small, like the devices that you carry with you, or the apps they are running, or the communication protocols these apps use to interact. It can be also comprehensive, as in large systems such as data centers, multi-domain networks, or hybrid cloud based infrastructure involving computing, storage and data resource.</p>
+<p>The Complex Cyber Infrastructure (CCI) group is part of the Informatics Institute at the University of Amsterdam. CCI focuses on the complexity of man-made systems on all scales. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned, operated and governed by different entities in multiple administrative domains interacting on the Internet. Harnessing this complexity in a transparent, trust-able way for safe and secure data processing is a major research topic that defines the focus of CCI research. The challenges are addressed by combining methods and results from research into distributed data processing, programmable networks, policy reasoning and normative control, hardware and cryptographic security, and software language engineering.</p>
 
 
 

@@ -30,5 +30,3 @@ url_video: ""
 slides: example
 ---
 
-
-The Amsterdam Data Exchange aims to provide broad access to data for researchers, companies and private individuals. Inspired by the Open Science Cloud of the European Commission, the project is intended to connect with similar projects across Europe. And eventually even become part of a global movement to share data more easily.

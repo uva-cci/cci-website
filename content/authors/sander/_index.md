@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor by special appointment
+role: Professor
 
 # Organizations/Affiliations
 organizations:

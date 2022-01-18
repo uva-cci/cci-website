@@ -23,6 +23,7 @@ organizations:
 interests:
 - Multi-agent Systems
 - Distributed Systems
+- Agent-Based Programming
 
 education:
   courses:

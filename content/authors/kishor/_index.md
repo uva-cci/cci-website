@@ -55,8 +55,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Scientific Staff
+- Guests
 ---
 
 <H2>Kishor</H2>
-I am a postdoctoral researcher with the CCI group. I am working on the SLICES-DS project which involves building a pan-European research infrastructure (Networking, Computing and Storage) for large scale scientific experiments. My research background is mainly in the areas of wireless networking and mobile edge computing. I received my PhD from TU Delft in 2017. Before joining UvA, I was a Marie-Curie Postdoctoral fellow(MSCA_IF) with CNRS|University of Paris-Saclay, Paris, France.
+I am working on the SLICES-DS project which involves building a pan-European research infrastructure (Networking, Computing and Storage) for large scale scientific experiments. My research background is mainly in the areas of wireless networking and mobile edge computing. I received my PhD from TU Delft in 2017. Before joining UvA, I was a Marie-Curie Postdoctoral fellow(MSCA_IF) with CNRS|University of Paris-Saclay, Paris, France.

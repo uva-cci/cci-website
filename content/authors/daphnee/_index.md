@@ -21,6 +21,22 @@ organizations:
 #interests:
 #- Smart Contracts
 
+interests:
+- Deep Learning
+- Distributed Systems
+- IoT
+- Secure Multi-Party computing
+
+education:
+  courses:
+  - course: MSc Information Studies (Data Science), 2020 - University of Amsterdam
+  - course: MSc Brain & Cognition (Cognitive Neuroscience), 2018 - University of Amsterdam
+
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/daphneechabal/
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,3 +59,8 @@ highlight_name: false
 user_groups:
 - PhD Students
 ---
+
+<H2>About Daphnee</H2>
+<p>
+My name is Daphnee Chabal and I am a PhD candidate in the Complex Cyber Infrastructure (CCI) group. Being supervised by Zoltan Mann, I will conduct research in the theme of Security and Privacy in Edge AI.  My research will focus on creating a performant and secure technique to deploy deep neural networks in edge computing (distributed) systems. Differently put, how to run resource-hungry algorithms in resource-constraints devices, such as IoT objects, while making sure incoming, in-process, and outgoing information remains private. I am French-Korean, so I definitely enjoy food. A United World College graduate, I’ve lived and studied in 8 countries spread over 4 continents. I always enjoy meeting people from all horizons, learning from/trying their ways of life, expanding my world view on any topic in the process. I also like mountain trekking, swimming, climbing, kickboxing, and boardgames. Cheers!
+</p>

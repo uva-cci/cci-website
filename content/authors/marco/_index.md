@@ -64,6 +64,6 @@ user_groups:
 ---
 
 
-<h2>
+<p>
 My name is Marco Brohet and I am excited to start as a PhD candidate in the Complex Cyber Infrastructure (CCI) group. Being supervised by Francesco Regazzoni, I will conduct research in the theme of Security By Design (SBD). My research will focus on making embedded systems more secure from the hardware inside, ensuring that software and hardware can securely cooperate with each other in a (possibly) hostile environment. I was born and raised in Amsterdam, so cycling is definitely my preferred method of transportation, but I certainly hope to do some experience abroad to broaden my horizon. I still like to play an occasional game of table tennis, so let me know if you know a good spot for this. Or if you want to play a chess game with the giant pieces at the ground floor. Cheers!
-</h2>
+</p>

@@ -59,4 +59,4 @@ user_groups:
 ---
 
 <H2>Kishor</H2>
-I am working on the SLICES-DS project which involves building a pan-European research infrastructure (Networking, Computing and Storage) for large scale scientific experiments. My research background is mainly in the areas of wireless networking and mobile edge computing. I received my PhD from TU Delft in 2017. Before joining UvA, I was a Marie-Curie Postdoctoral fellow(MSCA_IF) with CNRS|University of Paris-Saclay, Paris, France.
+<p>I am working on the SLICES-DS project which involves building a pan-European research infrastructure (Networking, Computing and Storage) for large scale scientific experiments. My research background is mainly in the areas of wireless networking and mobile edge computing. I received my PhD from TU Delft in 2017. Before joining UvA, I was a Marie-Curie Postdoctoral fellow(MSCA_IF) with CNRS|University of Paris-Saclay, Paris, France.</p>

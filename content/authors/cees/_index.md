@@ -45,5 +45,5 @@ user_groups:
 - Group Chair
 ---
 
-<h2>Introduction</h2>
-The complexity of man made systems on all scales is my research field. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned,  operated and governed by different entities in multiple administrative connected domains on the Internet. Harnessing this complexity in a transparent trust-able way for safe and secure data processing is a major research topic that nowadays defines the focus in my research. I chair the Complex Cyber Infrastructure research group that hosts this research line.
+<h2>About Cees</h2>
+<p>The complexity of man made systems on all scales is my research field. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned,  operated and governed by different entities in multiple administrative connected domains on the Internet. Harnessing this complexity in a transparent trust-able way for safe and secure data processing is a major research topic that nowadays defines the focus in my research. I chair the Complex Cyber Infrastructure research group that hosts this research line.</p>

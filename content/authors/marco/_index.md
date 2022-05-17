@@ -15,22 +15,27 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-  url: ""
+  url: "https://www.uva.nl/en/profile/b/r/m.j.a.brohet/m.j.a.brohet.html"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Hardware engineering, Verilog coding
+- HDL coding
+- Messing with FPGAs
 - Operating systems
 - CPU architectures
-- Computer systems security (from binary exploitation to Spectre & Meltdown)
+- Computer systems security, from binary exploitation to Spectre & Meltdown
 - An occasional CTF
 
 education:
   courses:
-  - course: MSc Computer Science (Computer Systems Security), 2021 - VU Amsterdam
-  - course: BSc Computing Science, 2018 - University of Amsterdam
+  - course: MSc Computer Science (Computer Systems Security)
+    institution: VU Amsterdam & University of Amsterdam
+    year: 2021
+  - course: BSc Computing Science
+    institution: University of Amsterdam
+    year: 2018
 
 
 # Social/Academic Networking
@@ -63,7 +68,10 @@ user_groups:
 - PhD Students
 ---
 
-
+<h2>Hi, thanks for visiting!</h2>
 <p>
-My name is Marco Brohet and I am excited to start as a PhD candidate in the Complex Cyber Infrastructure (CCI) group. Being supervised by Francesco Regazzoni, I will conduct research in the theme of Security By Design (SBD). My research will focus on making embedded systems more secure from the hardware inside, ensuring that software and hardware can securely cooperate with each other in a (possibly) hostile environment. I was born and raised in Amsterdam, so cycling is definitely my preferred method of transportation, but I certainly hope to do some experience abroad to broaden my horizon. I still like to play an occasional game of table tennis, so let me know if you know a good spot for this. Or if you want to play a chess game with the giant pieces at the ground floor. Cheers!
+I'm doing my PhD in the Complex Cyber Infrastructure (CCI) group, where I'm part of the <a href="https://sbd-research.nl/">Security By Design (SBD)</a> team under the supervision of <a href="/author/francesco-regazzoni">Francesco Regazzoni</a>. My goal is to make computer systems more secure by efficiently implementing security primitives in the computer architecture hardware, enabled by the rise of open-source Instruction Set Architectures (ISAs) such as RISC-V.
+</p>
+<p>
+As I was born and raised in Amsterdam, cycling is definitely my preferred method of transportation, and my lunch is not complete without a cheese sandwich. But I certainly want to do some experience abroad to broaden my horizon. I still like to play an occasional game of table tennis, so let me know if you know a good spot for this. Or if you want to play a chess game with the giant pieces at the ground floor, here at Science Park.
 </p>

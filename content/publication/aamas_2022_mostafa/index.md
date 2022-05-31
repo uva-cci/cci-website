@@ -10,7 +10,7 @@ authors:
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
-
+date: '2022-04-04'
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*
 publication_short: In *AAMAS2022*

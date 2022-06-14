@@ -29,7 +29,7 @@ As of 1 June 2022, leadership of the Complex Cyber Infrastructure research group
 
 [Prof.dr.ir. Cees de Laat](https://cci-research.nl/author/cees-de-laat/) chaired the System and Network Engineering (SNE) research group since 2006. SNE became so large that on his proposal it was split into three successful research groups in 2020: Complex Cyber Infrastructure (CCI), the Multiscale Networked Systems (MNS), and Parallel Computing Systems (PCS) research groups. Prof. de Laat chaired CCI since the split. His retirement is coming up later this year.
 
-[Dr. Zoltan Mann]() is an experienced researcher, who is committed to lead CCI to a further successful future, leveraging his international research and teaching background and industrial leadership experience.
+[Dr. Zoltan Mann](https://cci-research.nl/author/zoltan-mann/) is an experienced researcher, who is committed to lead CCI to a further successful future, leveraging his international research and teaching background and industrial leadership experience.
 
 
 Prof. de Laat and dr. Mann will continue to closely work together to make the transition as smooth as possible.

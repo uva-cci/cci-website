@@ -12,7 +12,7 @@ links:
 - icon: hyperlink
   icon_pack: fab
   name: More Info
-  url: https://amdex.eu/
+  url: https://lehrkompetenz.uni-graz.at/en/research/projects/vision/
 # - icon: hyperlink
 #   icon_pack: fab
 #   name: Project Homepage

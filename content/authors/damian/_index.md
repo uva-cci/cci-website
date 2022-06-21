@@ -53,7 +53,7 @@ user_groups:
 - PhD Students
 ---
 
-<h2> Hello there </h2>
+<h2> About Damian</h2>
 <p>
   I am fascinated by programming languages: they are the optimal form of abstraction. Hence, making it easier to construct new programming languages is the main focus of my research. As part of this effort, I want to integrate the design process with exploratory programming --- a style of programming where the goal worked towards is not fully concrete. This integration enables a highly volatile style of language development, making it easy to try out different design choices and reach the optimal language earlier.
 </p>

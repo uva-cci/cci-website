@@ -1,5 +1,5 @@
 ---
-title: 'SusTrainable summer school'
+title: 'Ana Oprescu will join as co-chair the Amsterdam Data Science Thesis Award PC'
 authors:
 - anna
 tags:
@@ -25,5 +25,5 @@ projects: []
 ---
 
 
-<p>During the <a href="https://sustrainable.uniri.hr/">Rijeka SusTrainable summer school</a> (4-8 July 2022, Rijeka, Croatia) organised by the Erasmus+ project SusTrainable Ana Oprescu gave a lecture on the methodologies employed for Energy-driven Software Engineering research. This was followed by a hands-on session prepared together with Kyrian Maat and based on work by Lukas Koedijk, Stephan Kok and Sander van Oostveen. The school was well attended by UvA master and PhD students, as well as junior lecturers.
-</p>
+
+<p>Please send your Bachelor and/or Master thesis nominations <a href="https://amsterdamdatascience.nl/news/2022-ads-thesis-awards/#:~:text=Amsterdam%20Data%20Science%20(ADS)%20is,the%208th%20of%20December%202022">here</a>. There is a special second track supporting diversity. Contact Ana at a.m.oprescu[at]uva.nl for any questions or clarifications.</p>

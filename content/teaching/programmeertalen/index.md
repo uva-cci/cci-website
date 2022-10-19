@@ -1,6 +1,6 @@
 ---
 title: Programmeertalen
-summary: TODO Course summary/description
+summary:
 date: "2022-09-07T00:00:00Z"
 publishDate: "2022-09-07T00:00:00Z"
 tags: ["College of Informatics"]

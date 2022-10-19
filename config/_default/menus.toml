@@ -24,19 +24,19 @@
   weight = 30
 
 [[main]]
+  name = "Education"
+  url = "#teaching"
+  weight = 31
+
+[[main]]
   name = "Software"
   url = "#software"
-  weight = 31
+  weight = 32
 
 [[main]]
   name = "People"
   url = "#people"
   weight = 35
-
-[[main]]
-  name = "Education"
-  url = "#teaching"
-  weight = 40
 
 [[main]]
   name = "Contact"

@@ -64,5 +64,5 @@ user_groups:
 
 <h2>About Marten</h2>
 <p>
-After finishing my Bachelor Computer Science at the UvA, I started working as a research assistant for the AMdEx project. Next to my work, developing prototypes, as a research assistant, I am finishing up my Bachelor Law. After completing my second bachelor, I will be looking for a master's programme in which I can combine my intrest in Law and Computer Science.
+After finishing my Bachelor Computer Science at the UvA, I started working as a research assistant for the AMdEx project. Next to my work, developing prototypes as a research assistant, I am finishing up my Bachelor Law. After completing my second bachelor, I will be looking for a master's programme in which I can combine my intrest in Law and Computer Science.
 </p>

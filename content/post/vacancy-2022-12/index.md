@@ -2,7 +2,7 @@
 title: 'Two PhD positions on efficient privacy-preserving techniques for data analysis and machine learning'
 authors:
 - zoltan
-- francesco
+- f
 tags:
 - Academic
 categories:

@@ -89,18 +89,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "secr-sne-science@uva.nl"
-phone = "+31 (0)20 525 6789"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Science Park 904", city = "Amsterdam", postcode = "1098XH", country = "The Netherlands", country_code = "NL"}
+address = {street = "Science Park 900", city = "Amsterdam", postcode = "1098XH", country = "The Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.3563", longitude = "4.9571"}
+coordinates = {latitude = "52.3547635", longitude = "4.9542424"}
 
 # Directions for visitors to locate you.
-directions = "Room C3.158"
+directions = "LAB 42, 5th floor near L5.26"
+
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

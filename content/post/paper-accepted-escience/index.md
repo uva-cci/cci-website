@@ -1,7 +1,7 @@
 ---
 title: 'Paper Accepted @IEEE eScience 2022'
 authors:
-- christopher
+- chris
 - tim
 - thomas
 tags:

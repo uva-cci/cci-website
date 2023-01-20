@@ -5,7 +5,7 @@ title: Exploring the Enforcement of Private, Dynamic Policies on Medical Workflo
 subtitle: ''
 summary: ''
 authors:
-- christopher
+- chris
 - tim
 - thomas
 - Adam S. Z. Belloum
@@ -34,7 +34,10 @@ projects: []
 publishDate: '2022-10-11T08:27:36.444893Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'We report on the ideas and experiences of adapting Brane, a workflow execution framework, for use cases involving medical 
+data exchange and processing. These use cases impose new requirements on the system to enforce policies encoding safety 
+properties, ranging from access control to legal regulations pertaining to data privacy. Our approach emphasizes users' control 
+over the extent to which they cooperate in distributed execution, at the cost of revealing information about their policies.'
 publication: '*Procedia e-Science*'
 doi: 10.1109/eScience55777.2022.00086
 links:

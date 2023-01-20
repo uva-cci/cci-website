@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2022-10-11T08:27:36.444893Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*Procedia e-Science*'
 doi: 10.1109/eScience55777.2022.00086

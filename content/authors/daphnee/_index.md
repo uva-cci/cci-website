@@ -15,17 +15,12 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-#interests:
-#- Smart Contracts
 
 interests:
-- Deep Learning
-- Distributed Systems
-- IoT
-- Secure Multi-Party computing
+- Secret Sharing (Secure Multi Party Computing)
+- Neural Networks (Deep Learning)
+- Edge Computing (Distributed Systems, IoT)
+- Neural Networks Compression
 
 education:
   courses:
@@ -62,5 +57,11 @@ user_groups:
 
 <H2>About Daphnee</H2>
 <p>
-My name is Daphnee Chabal and I am a PhD candidate in the Complex Cyber Infrastructure (CCI) group. Being supervised by Zoltan Mann, I will conduct research in the theme of Security and Privacy in Edge AI.  My research will focus on creating a performant and secure technique to deploy deep neural networks in edge computing (distributed) systems. Differently put, how to run resource-hungry algorithms in resource-constraints devices, such as IoT objects, while making sure incoming, in-process, and outgoing information remains private. I am French-Korean, so I definitely enjoy food. A United World College graduate, I’ve lived and studied in 8 countries spread over 4 continents. I always enjoy meeting people from all horizons, learning from/trying their ways of life, expanding my world view on any topic in the process. I also like mountain trekking, swimming, climbing, kickboxing, and boardgames. Cheers!
-</p>
+My name is Daphnee Chabal and I started my PhD in January 2022. Supervised by dr. Zoltan Mann, I conduct research in the theme 
+of Security and Privacy in Edge AI. My research focuses on 1. understanding the criteria that secure multi party protocols must meet 
+to be viable in edge computing environments, 2. understanding the effect of different model compression techniques on the overall 
+performance of edge intelligence, and 3. creating fast, accurate, and secure solutions for neural network inference in edge 
+computing systems. The overall aim is to bring state-of-the-art AI to resource constrained IoT settings, with data privacy 
+guarantees. Neuroscientist by training, I was previously part of the Center for Healthy Minds at the University of Wisconsin - 
+Madison and the Cambridge University's Junior Researcher Programme. I also worked as a data scientist in the aerospace and the 
+email service industries. I am a United Workd College graduate.</p>

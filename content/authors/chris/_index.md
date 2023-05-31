@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-Christopher is a PhD student working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"
+bio:
+  Christopher is a PhD student working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"
 
 interests:
 - Logical, Functional, Systems, Parallel, Distributed, Coordination languages

@@ -18,13 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Christopher Esterhuyse, and I am joining the CCI group as a PhD student. I will be working on the AMDEX fieldlab project, which will involve topics such as software language engineering, and distributed systems. I am most looking forward to interacting with colleagues with various interests and specializations. My childhood was spent on the move within the USA, and my home country of South Africa. Since I moved to Amsterdam in 2014, I somehow managed to stay put, turning my place of study into my new home. In that time, I have cultivated some typical European hobbies, such as hiking in Germany, and drinking Belgian beer.
+Christopher is a PhD student working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"
 
 interests:
-- Logical, Functional, Systems, Parallel, and Distributed programming
-- Coordination logic
-- Balancing safety and performance
-- Distributed Systems
+- Logical, Functional, Systems, Parallel, Distributed, Coordination languages
 
 education:
   courses:
@@ -59,4 +56,4 @@ user_groups:
 ---
 
 <H2>About Christopher</H2>
-<p>My name is Christopher Esterhuyse, and I am joining the CCI group as a PhD student. I will be working on the AMDEX fieldlab project, which will involve topics such as software language engineering, and distributed systems. I am most looking forward to interacting with colleagues with various interests and specializations. My childhood was spent on the move within the USA, and my home country of South Africa. Since I moved to Amsterdam in 2014, I somehow managed to stay put, turning my place of study into my new home. In that time, I have cultivated some typical European hobbies, such as hiking in Germany, and drinking Belgian beer.</p>
+<p>Christopher is a PhD student working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"</p>

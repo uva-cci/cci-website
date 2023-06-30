@@ -2,15 +2,13 @@
 title: 'Paper Published@AMC 2023'
 authors:
 - xin
-- Adam Belloum
-- Michael H. Lees
 - cees
 - tom
 tags:
 - Academic
 categories:
 - News
-date: "2023-6-30T00:00:00Z"
+date: "2023-06-30T00:00:00Z"
 featured: false
 draft: false
 

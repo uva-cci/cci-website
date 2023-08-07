@@ -1,7 +1,8 @@
 ---
 title: 'Lorentz workshop on Future Computing for Digital Infrastructures'
 authors:
-- zoltan,viktoriya
+- zoltan
+- viktoriya
 tags:
 - Academic
 categories:

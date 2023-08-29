@@ -12,6 +12,7 @@ subtitle = ""
   # Page type to display. E.g. post, talk, or publication.
   page_type = "teaching"
 
+  sort_by = 'date'
 
   filter_default = 0
 
@@ -23,13 +24,13 @@ subtitle = ""
   name = "Graduate School of Informatics"
   tag = "Graduate School of Informatics"
 
-  [[content.filter_button]]
-  name = "Institute for Interdisciplinary Studies"
-  tag = "Institute for Interdisciplinary Studies"
+#  [[content.filter_button]]
+#  name = "Institute for Interdisciplinary Studies"
+#  tag = "Institute for Interdisciplinary Studies"
 
-  [[content.filter_button]]
-  name = "Nyenrode Business University"
-  tag = "Nyenrode Business University"
+#  [[content.filter_button]]
+#  name = "Nyenrode Business University"
+#  tag = "Nyenrode Business University"
 
 
 
@@ -39,7 +40,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view =    2
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.

@@ -1,5 +1,5 @@
 ---
-title: Teaching activities
+title: Education
 
 # View.
 #   1 = List

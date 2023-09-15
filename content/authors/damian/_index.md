@@ -39,6 +39,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/leegbestand
+- icon: google-scholar
+  icon_pack: ai 
+  link: https://scholar.google.nl/citations?user=Kr9HqXAAAAAJ
+- icon: orcid
+  icon_pack: ai 
+  link: https://orcid.org/0000-0003-1016-5303
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -60,3 +66,8 @@ user_groups:
 <p>
  If you're still reading and are curious about me personally: I am born and raised in Almere, the Netherlands. Or, as I would like to say, the most beautiful city in the Netherlands. In my spare time, I enjoy taking a walk, cycle, and meet friends to have a drink.
 </p>
+
+<h5> Publications </h5> 
+
+<iframe style="width: 100%; height: 400px;" src="https://dare.uva.nl/search?org-uuid=07d87aa7-649c-424c-8298-f5164946d191;field1=keyword&value1=Frolich;sort=year;smode=iframe;startDoc=1" frameborder="0"></iframe>
+

@@ -7,7 +7,6 @@ tags: ["College of Informatics"] # Tag to which filter it belongs, see home/teac
 categories: ["Teaching in the Bachelor Informatics"]
 authors:
 - arno
-- marco
 author_notes: 
 - "Coordinator and teacher"
 - "TA"

@@ -8,7 +8,9 @@ categories: ["Teaching in the Master Computer Science"]
 authors:
 - f
 - kostas
+- marco
 author_notes: 
 - "Coordinator and Teacher"
 - "Teacher"
+- "TA"
 ---

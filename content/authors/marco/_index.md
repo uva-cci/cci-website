@@ -19,6 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yet another hardware security enthusiast.
 
 interests:
 - HDL coding
@@ -49,12 +50,21 @@ education:
 #   link: files/cv.pdf
 
 social:
-- icon: github
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/therbom
+  link: https://orcid.org/0000-0002-0860-9107
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/353/4153.html
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.nl/citations?user=EuVKudcAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/marco-brohet 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/therbom
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

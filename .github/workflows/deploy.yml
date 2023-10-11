@@ -31,4 +31,3 @@ jobs:
           publish_branch: master
           cname: cci-research.nl
           external_repository: uva-cci/cci-research.nl
-          username: mostafamohajeri

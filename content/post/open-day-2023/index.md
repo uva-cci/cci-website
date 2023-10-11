@@ -2,6 +2,7 @@
 title: "CCI Demoing at Science Park's Open Day"
 authors:
 - Marco
+- kyrian
 tags:
 - Social
 categories:

@@ -67,6 +67,6 @@ I am currently working on my PhD in the Complex Cyber Infrastructure group, wher
 I was born in West-Friesland and live in a small town, which to many of my colleagues is referred to as some sort of black hole. Even still, we do at times enjoy a good boardgame here, which together with baseball and the occassional video game make up my hobbies. Obviously I'm also up for a drink or a good restaurant visit as a past-time. 
 </p>
 
-<h5> Publications </h5> 
+<!-- <h5> Publications </h5> 
 
-<iframe style="width: 100%; height: 400px;" src="https://dare.uva.nl/search?org-uuid=07d87aa7-649c-424c-8298-f5164946d191;field1=keyword&value1=Maat;sort=year;smode=iframe;startDoc=1" frameborder="0"></iframe>
+<iframe style="width: 100%; height: 400px;" src="https://dare.uva.nl/search?org-uuid=07d87aa7-649c-424c-8298-f5164946d191;field1=keyword&value1=Maat;sort=year;smode=iframe;startDoc=1" frameborder="0"></iframe> -->

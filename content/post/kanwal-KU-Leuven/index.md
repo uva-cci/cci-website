@@ -2,7 +2,7 @@
 title: 'Poster demonstration @ KU Leuven'
 
 authors:
-- Kanwal
+- kanwal
 tags:
 - Academic
 categories:

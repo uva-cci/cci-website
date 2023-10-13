@@ -1,7 +1,7 @@
 ---
 title: 'Attended tinyML EMEA Innovation Forum 2023'
 authors:
-- Kanwal
+- kanwal
 tags:
 - Academic
 categories:

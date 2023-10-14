@@ -7,7 +7,7 @@ tags:
 - Academic
 categories:
 - News
-date: "2023-09-19 to 2023-09-22"
+date: "2023-09-19T12:00:00Z”
 featured: false
 draft: false
 

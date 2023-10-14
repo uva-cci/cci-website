@@ -4,7 +4,7 @@ title: Kanwal Batool
 #8f9521
 # Username (this should match the folder name)
 authors:
-- Kanwal
+- kanwal
 
 # Is this the primary user of the site?
 superuser: false

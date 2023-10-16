@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Scientific Staff
+- Research, Technical and Administrative Support
 ---
 
 <h2>About Aleandro</h2>

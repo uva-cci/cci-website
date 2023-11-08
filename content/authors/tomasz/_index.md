@@ -16,6 +16,8 @@ role: Post-doc
 organizations:
 - name: University of Amsterdam
   url: "https://www.uva.nl/profiel/z/u/t.a.zurek/t.a.zurek.html"
+- name: Personal Homepage
+  url: "https://tomaszzurek.wordpress.com"
 
 
 # Short bio (displayed in user profile at end of posts)

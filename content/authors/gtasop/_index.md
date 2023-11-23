@@ -67,4 +67,4 @@ I am George Tasopoulos and I have been working on my PhD in the Complex Cyber In
 
 <h5> Publications </h5> 
 
-<iframe style="width: 100%; height: 400px;" src="https://dare.uva.nl/search?org-uuid=07d87aa7-649c-424c-8298-f5164946d191;field1=keyword&value1=Tasopoulos;sort=year;smode=iframe;startDoc=1" frameborder="0"></iframe>
+<iframe style="width: 100%; height: 200px;" src="https://dare.uva.nl/search?org-uuid=07d87aa7-649c-424c-8298-f5164946d191;field1=keyword&value1=Tasopoulos;sort=year;smode=iframe;startDoc=1" frameborder="0"></iframe>

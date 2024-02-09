@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher (Guest)
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Guests
+- Former Members
 ---
 
 <H2>Kishor</H2>

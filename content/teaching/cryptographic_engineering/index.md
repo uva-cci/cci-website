@@ -9,6 +9,8 @@ authors:
 - f
 - kostas
 - marco
+- kyrian
+- gtasop
 author_notes: 
 - "Coordinator and Teacher"
 - "Teacher"

@@ -1,8 +1,8 @@
 ---
 title: 'PhD defense of Xin Zhou'
 authors:
-- xin-zhou
-- yuri-demchenko
+- xin
+- yuri
 - zoltan
 tags:
 - Academic

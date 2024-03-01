@@ -26,7 +26,7 @@ projects: [AMDEX]
 
 
 <p>
-The primary goal of [the document](https://zenodo.org/records/10565916) is to describe the AMdEX approach to sharing data and the AMdEX reference architecture comprised of governance solutions and technical solutions. Central to the approach are the AMdEX community members that cooperate as a consortium within AMdEX dataspaces and within a certain ecosystem. This document also explains how AMdEX works in practice, both from a user’s perspective, in relation to other initiatives, and by presenting existing use cases.
+The primary goal of <a href="https://zenodo.org/records/10565916">the document</a> is to describe the AMdEX approach to sharing data and the AMdEX reference architecture comprised of governance solutions and technical solutions. Central to the approach are the AMdEX community members that cooperate as a consortium within AMdEX dataspaces and within a certain ecosystem. This document also explains how AMdEX works in practice, both from a user’s perspective, in relation to other initiatives, and by presenting existing use cases.
 </p>
 
 <p>

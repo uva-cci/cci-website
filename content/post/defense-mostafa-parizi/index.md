@@ -4,7 +4,7 @@ authors:
 - mostafa
 - tom
 - gio
--sander
+- sander
 tags:
 - Academic
 categories:

@@ -2,6 +2,7 @@
 title: 'EU project on data protection and self-sovereign identity gets funding'
 authors:
 - zoltan
+- kanwal 
 tags:
 - Academic
 categories:

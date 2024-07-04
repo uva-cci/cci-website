@@ -14,3 +14,4 @@ author_notes:
 - "Teacher"
 - "Teacher"
 ---
+In the course Organisational Analysis and Developement (in Dutch Organisatieontwikkeling and -ontwikkeling) we study how collaborations between organisations influence IT-architectures that support cross-organisational collaboration. Particularly, we focus on data-sharing aspects and usage control that is required to create trust essential to collaboration.

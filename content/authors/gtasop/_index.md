@@ -1,10 +1,10 @@
 ---
 # Display name
-title: George Tasopoulos
+title: Georgios Tasopoulos
 #8f9521
 # Username (this should match the folder name)
 authors:
-- george
+- gtasop
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,7 +21,7 @@ organizations:
 # bio: 
 
 interests:
- - Secure Multiparty Computing
+ - Fully Homomorphic Encryption
  - Post-quantum Cryptography
  - Assembly-level Optimisation
 
@@ -60,9 +60,9 @@ user_groups:
 - PhD Students
 ---
 
-<h2> About George</h2>
+<h2> About Georgios</h2>
 <p>
-I am George Tasopoulos and I have been working on my PhD in the Complex Cyber Infrastructure group since October 2023. I am also part of the SECURED European project where I am working in the optimisation of Secure Multi-Party Computation techniques on the architectural and software level. Previously, I have worked for 2 years in Industrial Systems Institute / ATHENA Research Center (Patras, Greece), mainly focusing on Resource-Constrained Systems Security and Post-Quantum Cryptography. I am also an Electrical and Computer Engineering graduate from the University of Patras, Greece.
+I am Georgios Tasopoulos and I have been working on my PhD in the Complex Cyber Infrastructure group since October 2023. I am also part of the SECURED European project where I am working on the optimisation of Fully Homomorphic Encryption techniques on the architectural and software level. Previously, I have worked for 2 years in Industrial Systems Institute / ATHENA Research Center (Patras, Greece), mainly focusing on Resource-Constrained Systems Security and Post-Quantum Cryptography. I am also an Electrical and Computer Engineering graduate from the University of Patras, Greece.
 </p>
 
 <h5> Publications </h5> 

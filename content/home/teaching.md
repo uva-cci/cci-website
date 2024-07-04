@@ -16,12 +16,13 @@ subtitle = ""
 
   filter_default = 0
 
+  # Tag is used to link content to the specific filter. So keep old name.
   [[content.filter_button]]
-  name = "College of Informatics"
+  name = "BSc courses"
   tag = "College of Informatics"
 
   [[content.filter_button]]
-  name = "Graduate School of Informatics"
+  name = "MSc courses"
   tag = "Graduate School of Informatics"
 
 #  [[content.filter_button]]

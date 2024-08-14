@@ -17,8 +17,9 @@ draft: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["EPI", "AMDEX"]
 ---
+
 
 On the 20th of June, Christopher Esterhuyse and Tim Mueller presented their paper (with L. Thomas van Binsbergen)
 on the novel **JustAct** framework at the [2024 DisCoTec](https://www.discotec.org/2024) federated conference, held this year in Groningen.

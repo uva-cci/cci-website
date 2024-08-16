@@ -8,7 +8,7 @@ tags:
 - Academic
 categories:
 - News
-date: "2024-08-014T00:00:00Z"
+date: "2024-08-14T00:00:00Z"
 featured: false
 draft: false
 

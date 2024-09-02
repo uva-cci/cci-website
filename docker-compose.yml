@@ -10,7 +10,8 @@ services:
     restart: always
     ports:
     - 1313:1313
-    # volumes:
+    volumes:
+    - .:/www
   
 networks:
   cci-website:

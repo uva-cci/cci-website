@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tim Muller
+title: Tim Müller
 #8f9521
 # Username (this should match the folder name)
 authors:
@@ -15,13 +15,36 @@ role: Scientific Programmer
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-  url: ""
+  url: "https://uva.nl"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Smart Contracts
+education:
+  courses:
+  - course: BSc Kunstmatige Intelligentie
+    institution: University of Amsterdam
+    year: 2019
+
+interests:
+- Distributed Computing
+- Workflow Systems
+- Programming Languages
+- Normative Reasoning
+
+social:
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-9759-5973
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=SJXxKbQAAAAJ&hl=en&oi=sra
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tim-m%C3%BCller-216810241/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Lut99
 
 
 # Social/Academic Networking
@@ -45,3 +68,7 @@ highlight_name: false
 user_groups:
 - Research, Technical and Administrative Support
 ---
+
+My name is Tim and I'm a Scientific Programmer at the University of Amsterdam. I work with other PhD students and professors to support their research, usually technically but generally where possible. I'm happiest when that work involves writing compilers ([eFLINT](https://gitlab.com/eflint)) or workflow systems ([BRANE](https://github.com/epi-project/brane)).
+
+In my spare time I like drumming, reading, cycling gaming and programming (I swear it's different programming from my work). I also hang out a lot with my friends and colleagues.

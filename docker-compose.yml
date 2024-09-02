@@ -1,0 +1,17 @@
+
+services:
+  cci-website:
+    build:
+      dockerfile: ./Dockerfile
+      context: .
+      # target: run
+    container_name: cci-website
+    user: hugo
+    restart: always
+    ports:
+    - 1313:1313
+    # volumes:
+  
+networks:
+  cci-website:
+    driver: default

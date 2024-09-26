@@ -27,7 +27,7 @@ Each contribution provides a piece of the puzzle of developing large and complex
 	- at PAINT
 	- by Max Boksem and Thomas van Binsbergen
 	- Summary: This article characterises and demonstrates a fundamentally graph-based programming environment: programs are built from explicitly-linked parts. This approach has benefits from two different, existing kinds of programming environment, which together make program parts easier to maintain and re-use.
-2. "On the Soundness of Auto-completion Services for Dynamically Typed Languages"
+2. "On the Soundness of Auto-completion Services for Dynamically Typed Languages" 
 	- at GPCE
 	- by Damian Frölich and Thomas van Binsbergen
 	- Summary: This article presents a novel mechanism for code editors to assist programmers by auto-suggesting identifiers. The novelty is that suggestions are based on an analysis of the program that is shallow enough to be fast and language-agnostic, but deep enough to guarantee suggestions are always valid.

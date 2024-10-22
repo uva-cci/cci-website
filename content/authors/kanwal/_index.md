@@ -63,15 +63,7 @@ user_groups:
 <b> </b>
 <h2>About Kanwal</h2>
 
+<p style="text-align: justify;">
 
-
-<p align = "justify" style='text-align: justify;'>
- A dignified professional having an extensive experience in academia, industry, research & development is now ready for the roller coaster ride of pursuing a Doctorate degree. I started working as a PhD candidate in the <a href="https://cci-research.nl/">Complex Cyber Infrastructures(CCI)</a> Research group which positions itself primarily in the Systems & Networking (SNE) and Data Science of the Informatics Institute at the University of Amsterdam (UvA). I really am so grateful to have <a href="https://cci-research.nl/author/zoltan-mann/">Zoltán Ádám Mann</a> and <a href="https://staff.fnwi.uva.nl/p.grosso/">Paola Grosso</a> as wonderful mentors to work with. My research expertise and accomplishments spanned the gamut of security & privacy problems. Currently, my research focuses on <b>Privacy-preserving Machine Learning</b> and in general, <b>trustworthy AI</b>. It includes designing novel secure mechanisms and distributed solutions, leveraging applied cryptography techniques such as Homomorphic Encryption (HE) and Secure Multiparty Computations (SMC). Moreover, it also involves developing secure SW or HW solutions along with acceleration of core cryptographic primitives deployed at the Edge.
+Kanwal Batool is a member of the <a href="https://cci-research.nl/">Complex Cyber Infrastructure (CCI)</a> group within the Systems and Networking Engineering(SNE) Lab at the Informatics Institute of the University of Amsterdam. She has the privilege of working with exceptional mentors, including <a href="https://cci-research.nl/author/zoltan-mann/ ">Zoltán Ádám Mann</a>, <a href="https://www.uva.nl/en/profile/r/e/f.regazzoni/f.regazzoni.html"> Francesco Regazzoni</a>,  and <a href="https://staff.fnwi.uva.nl/a.d.pimentel/">Andy D. Pimentel</a>. Kanwal’s research focuses on <b>Privacy-preserving Machine Learning</b> and <b>Trustworthy AI</b>. She is particularly interested in developing secure mechanisms using advanced cryptographic techniques, such as Homomorphic Encryption and Secure Multiparty Computation, to ensure data privacy. She also explores secure software and hardware solutions, with an emphasis on accelerating cryptographic operations at the edge.
 </p>
-<p align = "justify" style='text-align: justify;'>
-The first job entailed working with the teams of developers to design web apps with varying functionalities from systems to analysis & search algorithms and develop malware detection. I spent the better part of my career in <i>TU Delft, the Netherlands</i> as well as <i>Capital University of Science & Technology (CUST), Islamabad, Pakistan</i> and in the Secure Systems and Network Engineering (SNE) MS Program at the <i>Innopolis University (IU), Russia</i>. SNE was originally brought to the IU from the SNE of University of Amsterdam (UvA). 
-</p>
-<p align = "justify" style='text-align: justify;'>
-Being an active learner, I completed certain security certifications and used to stay in touch with the latest security & technological news, analysis, research, innovations and events worldwide. Amongst the achievements, I received the <b>Outstanding Researcher Recommendation</b> from Russia. Moreover, I was appreciated as an Instructor/Trainer for Competitions & Challenge preparation, attended various international or national workshops, organized guest lectures and remained an active event coordinator for Open houses, farewells, sports, quiz or debate competitions.
-</p>
-

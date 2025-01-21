@@ -37,8 +37,8 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*2023 IEEE 17th International Conference on eScience (eScience)*'
-doi: 10.1109/eScience51609.2023.00056
+doi: 10.1109/TPS-ISA58951.2023.00036
 links:
 - name: URL
-  url: https://ieeexplore.ieee.org/document/9582292
+  url: https://ieeexplore.ieee.org/document/10431649
 ---

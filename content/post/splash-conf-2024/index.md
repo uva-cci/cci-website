@@ -3,6 +3,7 @@ title: '3 Papers Accepted at SPLASH 2024'
 authors:
 - chris
 - damian
+- max
 - thomas
 tags:
 - Academic

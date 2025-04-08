@@ -73,6 +73,6 @@ user_groups:
 
 <h2>About Pepijn</h2>
 <p>
-I studied Bèta-gamma (Natural and Social Sciences) and majored in Artificial Intelligence. In my thesis, supervised by Ana Oprescu, I studied the trade-off between energy consumption and machine learning accuracy for privacy-enhanced data. This thesis eventually lead to a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292174">conference paper</a> at the conference of <a href="https://conf.researchr.org/series/ict4s">ICT for Sustainability</a>.
+I studied Bèta-gamma (Natural and Social Sciences) and majored in Artificial Intelligence. In my bachelor thesis, supervised by Ana Oprescu, I studied the trade-off between energy consumption and machine learning accuracy for privacy-enhanced data. This thesis eventually led to a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292174">conference paper</a> at the conference of <a href="https://conf.researchr.org/series/ict4s">ICT for Sustainability</a>.
 After finishing my thesis, I started working as a research assistant for the AMdEx project where I helped with synthetic data and k-anonymity. I then started the master's programme of <a href="https://www.uva.nl/en/programmes/masters/artificial-intelligence/artificial-intelligence.html"> Artificial Intelligence</a> in 2022 and graduated in 2024. Since then I have been guest researcher at CCI where I work under supervision of Ana Oprescu.
 </p>

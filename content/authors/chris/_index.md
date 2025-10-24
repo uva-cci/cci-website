@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post-Doctoral Researcher
+role: Post-doc
 
 # Organizations/Affiliations
 organizations:
@@ -19,14 +19,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
-  Christopher is a Post-doc researcher working on (languages for) specifying distributed systems, for eliciting, negotiating, testing, and verifying system properties.  
+  Christopher is a post-doc researcher working on (languages for) specifying distributed systems, for eliciting, negotiating, testing, and verifying system properties.  
 
 interests:
 - distributed systems (e.g., atop unreliable asynchronous networks)
-- system specification (e.g., in Alloy) 
-- systems programming (e.g., in Rust)
-- theorem proving (e.g., in Rocq)
-- logic programming and model-checking (e.g., in Clingo)
+- set-theoretic models and model-checking (e.g., in Alloy)
+- functional models and and theorem proving (e.g., in Rocq)
+- logic programming and search (e.g., in Clingo)
+- imperative and systems programming (e.g., in Rust)
 
 education:
   courses:
@@ -66,12 +66,16 @@ user_groups:
 <H2>About Christopher</H2>
 <p>
   I am a Post-doc researcher developing (languages for) formal specifications of distributed systems.
-
-
-  Namely, well-made specification (languages) have various uses: (1) using a language by writing a specification helps us to structure and interrogate our understanding of our systems, (2) specifications are discrete, communicable artefacts, whose clear semantics make them good vehicles for recording and communicating our expectations, requirements, and observations in an unambiguous form, and (3) having a specification lets us find and prove (subtle) emergent properties of our systems.
+  With my colleagues, I use formal methods and programming languages as tools to shape and understand complex cyber-social systems.
 </p>
 <p>
-  My work My work revolves around the design and experimentation with languages and specifications, as motivated by some practical applications. In the last few years, we have applied these languages and specifications to the regulation of agent behaviour in in inter-organisational medical data processing, and in ad hoc, multi-party network transactions.
+  The specification process is useful, because it forces us to resolve ambiguities and inconsitencies in our ideas.
+  The resulting specifications are useful, because they enable recording and communicating our ideas, and it lays the groundwork for automating difficult but important tasks, such as identifying (surprising) consequences and proving (emergent) properties. 
+</p>
+<p>
+  Ultimately, most of my work aims to help solve practical problems.
+  Lately, I have focused on two problems in particular: how can we
+  (1) express and enforce the social norms regulating inter-origanisational processing of medical data, and (2) define and realise multi-party communication interactions in ad hoc network sessions?  
 </p>
 
 

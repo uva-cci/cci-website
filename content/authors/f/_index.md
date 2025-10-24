@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -67,10 +67,10 @@ user_groups:
 - Scientific Staff
 ---
 
-<p>Dr. Francesco Regazzoni is a tenured Assistant Professor 1 (UD1)
+<p>Dr. Francesco Regazzoni is an Associate Professor
 in Security by Design at the Informatics Institute of the University
 of Amsterdam (Amsterdam, The Netherlands). He authored or co-authored
-more than 150 publications in international journals, conferences, or
+more than 160 publications in international journals, conferences, or
 books. His research interests comprise a variety of topics in
 security, especially on efficient implementation of privacy
 preserving technologies, physical and side channel attacks and
@@ -85,7 +85,7 @@ institution of 4 Horizon 2020 projects.
 
 <p>He is (or has been) the general chair of CARDIS 2023, COSADE 2021,
 CARDIS 2017, and of the TRUDEVICE Training School 2016; the chair of
-the program committee of SAMOS 2024, SPACE 2023, CCSW 2023, CCS2022,
+the program committee of SAMOS 2024, SPACE 2023, CCSW 2023, CCSW 2022,
 FDTC 2017, the chair of the Topic DT6 at DATE 2021, DATE 2022, and
 DATE 2023, the chair of the &quot;Track Security and Safety&quot; at
 VLSIDesign 2022, and of the Track “Hardware/Cyber Security &amp;
@@ -116,4 +116,3 @@ processeurs at EPFL (Lausanne, Switzerland) in 2007 and 2008, and at Nanyang Tec
 
 <h5> Publications </h5>
 <iframe style="width: 100%; height: 770px;" src="https://dare.uva.nl/search?org-uuid=07d87aa7-649c-424c-8298-f5164946d191;field1=keyword&value1=Regazzoni;sort=year;smode=iframe;startDoc=1" frameborder="0"></iframe>
-

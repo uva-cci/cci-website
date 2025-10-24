@@ -60,6 +60,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group Chair
+- Former Members
 ---
 <p>Zoltan Mann is a researcher with wide-ranging interests in computer science, from theory (optimization problems, algorithms, complexity) to practice (security and privacy, data protection, cloud computing, edge computing). Before joining the University of Amsterdam in 2021, he worked as associate professor at Budapest University of Technology and Economics (Hungary) and as senior researcher at the University of Duisburg-Essen (Germany). In addition, he held various industry positions in software engineering, IT consulting, and management consulting. He is the head of the Data Protection task force of the European Big Data Value Association.</p>

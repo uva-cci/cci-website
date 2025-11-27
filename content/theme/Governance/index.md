@@ -72,6 +72,7 @@ In this research theme we develop conceptual models, algorithms, protocols, lang
 
 ## 2024
 {{< cite page="/publication/just-act-2024" view=2 >}}
+{{< cite page="/publication/oasics-epi-2024" view=2 >}}
 
 ## 2023
 {{< cite page="/publication/zhou-2023" view=2 >}}

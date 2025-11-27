@@ -1,35 +1,34 @@
 ---
 # Display name
-title: Georgia Samaritaki
+title: Nina Verheijen
 #8f9521
 # Username (this should match the folder name)
 authors:
-- georgia
+- nina
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher and Junior Lecturer 
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
+  url: "https://www.uva.nl/en"
 
-interests:
-- Domain Specific Languages
-- Procedural content generation in Video Games 
-- Sustainability
+# Short bio (displayed in user profile at end of posts)
+# bio:
+
 
 education:
   courses:
-  - course: MSc Software Engineering, 2022 - University of Amsterdam
-  - course: Bsc Computer Science, 2020 - University of Crete
-
-social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/georgia-sam/
+  - course: MSc Information Studies (Information Systems)
+    institution: University of Amsterdam
+    year: 2022
+  - course: BSc Artificial Intelligence
+    institution: University of Amsterdam
+    year: 2021
 
 
 # Social/Academic Networking
@@ -43,7 +42,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "g.samaritaki@uva.nl"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -51,9 +50,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research
+- Archived Former Members
 ---
-<!-- 
-<H2>About Georgia</H2>
-<p>
-I have a variety of academic and programming interests all around video games</p> -->

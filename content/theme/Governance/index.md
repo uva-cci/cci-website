@@ -67,6 +67,9 @@ In this research theme we develop conceptual models, algorithms, protocols, lang
 
 
 # Publications
+## 2025
+{{< cite page="/publication/gpce2025" view=2 >}}
+
 ## 2024
 {{< cite page="/publication/just-act-2024" view=2 >}}
 

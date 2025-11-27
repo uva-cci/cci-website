@@ -31,7 +31,7 @@ image:
 projects: [amdex]
 publishDate: '2025-07-04T08:27:36.246030Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: ''
 doi: 10.1145/3742876.3742882

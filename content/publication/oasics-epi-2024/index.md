@@ -32,7 +32,7 @@ image:
 projects: [epi]
 publishDate: '2024-10-28'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: ''
 doi: 10.4230/OASIcs.Commit2Data.2

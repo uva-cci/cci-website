@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2022-05-31T08:27:36.246030Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: ''
 doi: 10.1145/3425898.3426958

@@ -34,8 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: ''
-doi: 10.1145/3425898.3426958
-links:
-- name: URL
-  url: https://doi.org/10.1145/3742876.3742882
+doi: 10.1145/3742876.3742882
 ---

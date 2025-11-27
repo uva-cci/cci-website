@@ -1,23 +1,21 @@
 ---
 # Display name
-title: Cees de Laat
+title: Tommaso Pacciani
 
 # Username (this should match the folder name)
 authors:
-- cees
+- tommaso
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full Professor
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Homepage
-  url: "https://delaat.net/"
 - name: University of Amsterdam
-  url: "https://www.uva.nl/profiel/l/a/c.t.a.m.delaat/c.t.a.m.delaat.html"
+  homepage: "https://conf.researchr.org/profile/tommasopacciani"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: The complexity of man made systems on all scales is my research field. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned,  operated and governed by different entities in multiple administrative connected domains on the Internet. Harnessing this complexity in a transparent trust-able way for safe and secure data processing is a major research topic that nowadays defines the focus in my research. I chair the Complex Cyber Infrastructure research group that hosts this research line.
@@ -42,8 +40,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Members
+- Associated Members
 ---
-
-<h2>About Cees</h2>
-<p>The complexity of digital systems on all scales is my research field. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned, operated and governed by different entities in multiple administrative domains interacting on the Internet. Harnessing this complexity in a transparent trust-able way for safe and secure data processing is a major research topic that nowadays defines the focus in my research. I am part of the Complex Cyber Infrastructure (CCI) research group that hosts this research line.</p>

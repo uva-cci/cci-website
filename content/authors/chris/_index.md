@@ -15,22 +15,26 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-  url: ""
+  url: "https://sirkibsirkib.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
-  Christopher is a Postdoctoral researcher working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"
+  Christopher is a post-doc researcher working on (languages for) specifying distributed systems, for eliciting, negotiating, testing, and verifying system properties.  
 
 interests:
-- Logical, Functional, Systems, Parallel, Distributed, Coordination languages
+- distributed systems (e.g., atop unreliable asynchronous networks)
+- set-theoretic models and model-checking (e.g., in Alloy)
+- functional models and and theorem proving (e.g., in Rocq)
+- logic programming and search (e.g., in Clingo)
+- imperative and systems programming (e.g., in Rust)
 
 education:
   courses:
-  - course: PhD Computer Science
-    institution: University of Amsterdam
-    year: 2021-2025
+  - course: PhD in Computer Science
+    institution: Universiteit van Amsterdam
+    year: 2025
   - course: MSc Parallel & Distributed Computing Systems
-    institution: VU Amsterdam
+    institution: Vrije Universiteit Amsterdam
     year: 2020
 
 # Social/Academic Networking
@@ -60,4 +64,22 @@ user_groups:
 ---
 
 <H2>About Christopher</H2>
-<p>Christopher is a PhD student working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"</p>
+<p>
+  I am a Post-doc researcher developing (languages for) formal specifications of distributed systems.
+  With my colleagues, I use formal methods and programming languages as tools to shape and understand complex cyber-social systems.
+</p>
+<p>
+  The specification process is useful, because it forces us to resolve ambiguities and inconsitencies in our ideas.
+  The resulting specifications are useful, because they enable recording and communicating our ideas, and it lays the groundwork for automating difficult but important tasks, such as identifying (surprising) consequences and proving (emergent) properties. 
+</p>
+<p>
+  Ultimately, most of my work aims to help solve practical problems.
+  Lately, I have focused on two problems in particular: how can we
+  (1) express and enforce the social norms regulating inter-origanisational processing of medical data, and (2) define and realise multi-party communication interactions in ad hoc network sessions?  
+</p>
+
+
+<h5> Publications </h5> 
+
+<iframe style="width: 100%; height: 400px;" src="https://dare.uva.nl/search?org-uuid=07d87aa7-649c-424c-8298-f5164946d191;field1=keyword&value1=Esterhuyse;sort=year;smode=iframe;startDoc=1" frameborder="0"></iframe>
+

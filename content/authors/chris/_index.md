@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -19,13 +19,16 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
-  Christopher is a PhD student working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"
+  Christopher is a Postdoctoral researcher working on the formal modelling of distributed systems, and leveraging them for various benefits. For example, (1) writing models helps us concretize our thoughts, (2) communicating models affords unambiguous communication of requirements, expectations, and so on, and (3) having a model affords automated checking of system properties. Work revolves around the application domain, e.g., asking "what concepts are worth formalizing?" Work also revolves around the languages themselves, e.g., asking "what makes a language practical?"
 
 interests:
 - Logical, Functional, Systems, Parallel, Distributed, Coordination languages
 
 education:
   courses:
+  - course: PhD Computer Science
+    institution: University of Amsterdam
+    year: 2021-2025
   - course: MSc Parallel & Distributed Computing Systems
     institution: VU Amsterdam
     year: 2020
@@ -53,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Researchers
 ---
 
 <H2>About Christopher</H2>

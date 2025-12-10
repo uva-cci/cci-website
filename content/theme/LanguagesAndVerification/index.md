@@ -1,6 +1,6 @@
 ---
 title: Programming Languages and Verification
-summary: This theme (pronounced: 'Team') studies and develops techniques for software language engineering, generative programming, semantics and verification.
+summary: "This theme (pronounced: 'Team') studies and develops techniques for software language engineering, generative programming, semantics and verification."
 tags:
 - Data
 date: "2025-11-15T00:00:00Z"

@@ -11,6 +11,7 @@ authors:
 - christopher
 - tommaso
 - mike
+- andrea
 - tim
 
 # # Optional external URL for project (replaces project detail page).

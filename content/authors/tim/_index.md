@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research, Technical and Administrative Support
+- Former Members
 ---
 
 My name is Tim and I'm a Scientific Programmer at the University of Amsterdam. I work with other PhD students and professors to support their research, usually technically but generally where possible. I'm happiest when that work involves writing compilers ([eFLINT](https://gitlab.com/eflint)) or workflow systems ([BRANE](https://github.com/epi-project/brane)).

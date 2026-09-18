@@ -25,6 +25,9 @@ interests:
 - Computational Law
 
 social:
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0009-0002-9768-3014
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sofiasidali

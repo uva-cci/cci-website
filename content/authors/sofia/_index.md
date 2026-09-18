@@ -20,10 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
+interests:
 - Rules as Code
 - Computational Law
 
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sofiasidali
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sofiaxali
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -41,24 +41,18 @@ url_video: ""
 slides: ""
 ---
 
-...
-
-# Projects
-<a href="/project/amdex"><img src="/project/amdex/featured.png" width=200 style="display: inline;" /></a>
-<a href="">Mooi</a>
+The Programming Languages and Verification team is developing language engineering and verification techniques for the rapid development of domain-specific languages, specification languages and tools for editing, running and verifying programs in such languages. Case studies are provided by legal specification languages (e.g., eFLINT), protocol specification languages (Reowolf) and programmable networks (P4). The meta-languages developed by the team are used for conducting research into general-purpose programming languages. Of specific interest are functional programming, logic programming, theorem provers, model checking, definitional interpreters, and formal semantics. 
 
 # Software
 <a href="/software/eflint/"><img src="/software/eflint/featured.png" width=200 style="display: inline;"/></a>
 
 # Publications
+
+## 2026
+{{< cite page="/publication/eflint-reflections" view=2 >}}
+
 ## 2025
 {{< cite page="/publication/gpce2025" view=2 >}}
-
-## 2024
-
-## 2023
-
-## 2022
 
 ## 2021
 {{< cite page="/publication/van-binsbergen-dynamic-2022" view=2 >}}

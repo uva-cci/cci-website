@@ -51,10 +51,13 @@ The Programming Languages and Verification team is developing language engineeri
 ## 2026
 {{< cite page="/publication/eflint-reflections" view=2 >}}
 {{< cite page="/publication/esterhuyse-justact-lmcs" view=2 >}}
+{{< cite page="/publication/pacciani-p4check-2026" view=2 >}}
 
 ## 2025
 {{< cite page="/publication/esterhuyse-reowolf-coordination" view=2 >}}
 {{< cite page="/publication/gpce2025" view=2 >}}
+{{< cite page="/publication/pacciani-p4ddg-2025" view=2 >}}
+{{< cite page="/publication/frolich-mvd-2025" view=2 >}}
 
 ## 2024
 {{< cite page="/publication/esterhuyse-cooperative" view=2 >}}

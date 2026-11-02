@@ -50,9 +50,15 @@ The Programming Languages and Verification team is developing language engineeri
 
 ## 2026
 {{< cite page="/publication/eflint-reflections" view=2 >}}
+{{< cite page="/publication/esterhuyse-justact-lmcs" view=2 >}}
 
 ## 2025
+{{< cite page="/publication/esterhuyse-reowolf-coordination" view=2 >}}
 {{< cite page="/publication/gpce2025" view=2 >}}
+
+## 2024
+{{< cite page="/publication/esterhuyse-cooperative" view=2 >}}
+{{< cite page="/publication/just-act-2024" view=2 >}}
 
 ## 2021
 {{< cite page="/publication/van-binsbergen-dynamic-2022" view=2 >}}

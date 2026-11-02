@@ -8,11 +8,13 @@ date: "2025-11-15T00:00:00Z"
 authors:
 - thomas
 - damian
-- christopher
+- chris
 - tommaso
 - mike
 - andrea
 - tim
+- tijs
+- sofia
 
 # # Optional external URL for project (replaces project detail page).
 # external_link: "https://amsterdamsmartcity.com/updates/project/amsterdam-data-exchange-amdex"

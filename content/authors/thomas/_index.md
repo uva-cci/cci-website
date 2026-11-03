@@ -31,7 +31,7 @@ interests:
 
 social:
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/thomas-van-binsbergen-48843a34b/
 - icon: google-scholar
   icon_pack: ai 

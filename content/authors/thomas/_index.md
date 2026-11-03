@@ -20,10 +20,35 @@ organizations:
   url: "https://ltvanbinsbergen.nl"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: The complexity of man made systems on all scales is my research field. Cyber Infrastructure is rapidly evolving from relatively simple fixed components to programmable and virtualized objects with many degrees of freedom, owned,  operated and governed by different entities in multiple administrative connected domains on the Internet. Harnessing this complexity in a transparent trust-able way for safe and secure data processing is a major research topic that nowadays defines the focus in my research. I chair the Complex Cyber Infrastructure research group that hosts this research line.
+bio: Thomas van Binsbergen is an Associate Professor in software engineering with a specialisation in the operational semantics of programming languages. Topics of interest include modular language specifications and implementations. Applications areas are automated legal reasoning in multi-domain systems and domain-specific languages for domains such as regulatory and legal, programmable networks, and software language engineering. I am tenured at the University of Amsterdam and situated in the Complex-Cyber Infrastructure research group of the Informatics Institute where I lead the Programming Languages and Verification team.
+
+interests:
+- Structural Operational Semantics
+- Meta-languages
+- Specification languages
+- Functional programming
+- Legal languages
+
+education:
+  courses:
+    - Programmeertalen
+    - Compiler Construction
+    - Software Evolution
 
 
-
+social:
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/thomas-van-binsbergen-48843a34b/
+- icon: google-scholar
+  icon_pack: ai 
+  link: https://scholar.google.com/citations?user=38F_4V4AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai 
+  link: https://orcid.org/0000-0001-8113-2221
+- icon: url
+- icon_pack: ai
+- link: https://ltvanbinsbergen.nl
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

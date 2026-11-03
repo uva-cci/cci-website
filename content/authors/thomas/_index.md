@@ -29,13 +29,6 @@ interests:
 - Functional programming
 - Legal languages
 
-education:
-  courses:
-    - Programmeertalen
-    - Compiler Construction
-    - Software Evolution
-
-
 social:
 - icon: linkedin
   icon_pack: ai

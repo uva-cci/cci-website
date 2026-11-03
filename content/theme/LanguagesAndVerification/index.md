@@ -7,14 +7,14 @@ date: "2025-11-15T00:00:00Z"
 
 authors:
 - thomas
+- tijs
 - damian
 - chris
 - tommaso
 - mike
 - andrea
-- tim
-- tijs
 - sofia
+- tim
 
 # # Optional external URL for project (replaces project detail page).
 # external_link: "https://amsterdamsmartcity.com/updates/project/amsterdam-data-exchange-amdex"
@@ -44,7 +44,8 @@ slides: ""
 The Programming Languages and Verification team is developing language engineering and verification techniques for the rapid development of domain-specific languages, specification languages and tools for editing, running and verifying programs in such languages. Case studies are provided by legal specification languages (e.g., eFLINT), protocol specification languages (Reowolf) and programmable networks (P4). The meta-languages developed by the team are used for conducting research into general-purpose programming languages. Of specific interest are functional programming, logic programming, theorem provers, model checking, definitional interpreters, and formal semantics. 
 
 # Software
-<a href="/software/eflint/"><img src="/software/eflint/featured.png" width=200 style="display: inline;"/></a>
+<a href="/software/eflint/"><img src="/software/eflint/featured.png" height=80 style="display: inline;"/></a>
+<a href="/software/omelet/"><img src="/software/omelet/featured.png" height=80 style="display: inline;"/></a>
 
 # Publications
 

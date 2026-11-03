@@ -46,9 +46,6 @@ social:
 - icon: orcid
   icon_pack: ai 
   link: https://orcid.org/0000-0001-8113-2221
-- icon: url
-- icon_pack: ai
-- link: https://ltvanbinsbergen.nl
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

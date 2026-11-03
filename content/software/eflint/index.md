@@ -12,11 +12,11 @@ links:
 - icon: hyberlink
   icon_pack: fab
   name: More Information
-  url: https://ltvanbinsbergen.nl/files/papers/eflint.pdf
+  url: https://www.sciencedirect.com/science/article/pii/S2590118426000274
 - icon: github
   icon_pack: fab
   name: Source Code
-  url: https://gitlab.com/eflint/haskell-implementation
+  url: https://gitlab.com/eflint
 url_code: ""
 url_pdf: ""
 url_slides: ""

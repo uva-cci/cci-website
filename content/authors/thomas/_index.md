@@ -20,7 +20,7 @@ organizations:
   url: "https://ltvanbinsbergen.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas van Binsbergen is an Associate Professor in software engineering with a specialisation in the operational semantics of programming languages. Topics of interest include modular language specifications and implementations. Applications areas are automated legal reasoning in multi-domain systems and domain-specific languages for domains such as regulatory and legal, programmable networks, and software language engineering. I am tenured at the University of Amsterdam and situated in the Complex-Cyber Infrastructure research group of the Informatics Institute where I lead the Programming Languages and Verification team.
+bio: "Thomas van Binsbergen is an Associate Professor in software engineering with a specialisation in the operational semantics of programming languages. Topics of interest include modular language specifications and implementations. Applications areas are automated legal reasoning in multi-domain systems and domain-specific languages for domains such as regulatory and legal, programmable networks, and software language engineering. I am tenured at the University of Amsterdam and situated in the Complex-Cyber Infrastructure research group of the Informatics Institute where I lead the Programming Languages and Verification team."
 
 interests:
 - Structural Operational Semantics

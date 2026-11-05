@@ -44,8 +44,8 @@ slides: ""
 The Programming Languages and Verification team is developing language engineering and verification techniques for the rapid development of domain-specific languages, specification languages and tools for editing, running and verifying programs in such languages. Case studies are provided by legal specification languages (e.g., eFLINT), protocol specification languages (Reowolf) and programmable networks (P4). The meta-languages developed by the team are used for conducting research into general-purpose programming languages. Of specific interest are functional programming, logic programming, theorem provers, model checking, definitional interpreters, and formal semantics. 
 
 # Software
-<a href="/software/eflint/"><img src="/software/eflint/featured.png" height=80 style="display: inline;"/></a>
-<a href="/software/omelet/"><img src="/software/omelet/featured.png" height=80 style="display: inline;"/></a>
+<a href="/software/eflint/"><img src="/software/eflint/featured.png" style="display: inline;max-height:60px;margin:10px;"/></a>
+<a href="/software/omelet/"><img src="/software/omelet/featured.png" style="display: inline;max-height:60px;margin:10px;"/></a>
 
 # Publications
 

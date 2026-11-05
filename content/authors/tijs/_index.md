@@ -13,34 +13,20 @@ superuser: false
 role: Professor
 
 # Organizations/Affiliations
-(* organizations:
-- name: University of Amsterdam
-  url: "https://www.uva.nl/en/profile/b/i/l.t.vanbinsbergen/l.t.van-binsbergen.html"
-- name: Personal Homepage
-  url: "https://ltvanbinsbergen.nl" *)
+# organizations:
+#- name: University of Amsterdam
+#  url: "https://www.uva.nl/en/profile/b/i/l.t.vanbinsbergen/l.t.van-binsbergen.html"
+#- name: Personal Homepage
+#  url: "https://ltvanbinsbergen.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tijs van der Storm performs research at the cross section between programming languages and software engineering, specializing in tools and techniques for the construction and evolution of domain-specific languages (DSLs). He is one of co-designers of the Rascal meta programming language and language workbench, which has been used for DSL design in digital forensics, financial product specification, and game economies. Van der Storm is chair of the Dutch association for software engineering research (VERSEN), treasurer of the European Association for Programming Languages and Systems (EAPLS), vice-president of AITO, and chair of the IFIP TC2 2.16 Working Group on Language Design
+bio: "Tijs van der Storm performs research at the cross section between programming languages and software engineering, specializing in tools and techniques for the construction and evolution of domain-specific languages (DSLs). He is one of co-designers of the Rascal meta programming language and language workbench, which has been used for DSL design in digital forensics, financial product specification, and game economies. Van der Storm is chair of the Dutch association for software engineering research (VERSEN), treasurer of the European Association for Programming Languages and Systems (EAPLS), vice-president of AITO, and chair of the IFIP TC2 2.16 Working Group on Language Design."
 
 interests:
 - Meta-languages
 - Software language engineering
 - Domain-specific languages
 - Live progrmaming
-
-(* social:
-- icon: linkedin
-  icon_pack: ai
-  link: https://www.linkedin.com/in/thomas-van-binsbergen-48843a34b/
-- icon: google-scholar
-  icon_pack: ai 
-  link: https://scholar.google.com/citations?user=38F_4V4AAAAJ&hl=en
-- icon: orcid
-  icon_pack: ai 
-  link: https://orcid.org/0000-0001-8113-2221
-- icon: url
-- icon_pack: ai
-- link: https://ltvanbinsbergen.nl *)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
